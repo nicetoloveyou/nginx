@@ -1,0 +1,3 @@
+
+
+nginx some config 
